@@ -1,0 +1,41 @@
+[{
+    "name": "IPhone 13pro",
+    "stock": 2310,
+    "sales": 2103
+}, {
+    "name": "MacBook Air",
+    "stock": 34312,
+    "sales": 23509
+}, {
+    "name": "MacBook Pro",
+    "stock": 22140,
+    "sales": 12830
+}, {
+    "name": "Ipad9",
+    "stock": 10842,
+    "sales": 5492
+}, {
+    "name": "Go Pro",
+    "stock": 68102,
+    "sales": 44043
+}, {
+    "name": "Drone",
+    "stock": 12032,
+    "sales": 8603
+}, {
+    "name": "IPhone13pro Film",
+    "stock": 9890,
+    "sales": 8960
+}, {
+    "name": "HUAWEI P40",
+    "stock": 20130,
+    "sales": 12302
+}, {
+    "name": "Phone Case",
+    "stock": 89342,
+    "sales": 42948
+}, {
+    "name": "HUAWEI P40 Film",
+    "stock": 5034,
+    "sales": 1220
+}]
